@@ -1,2 +1,2 @@
 # Algorithms-Data-Structures
-Rnadom collection of competitive-style algorithms 
+Random collection of algorithms
